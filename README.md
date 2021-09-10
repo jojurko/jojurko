@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jozef Jurkovič, @jojurko
-- 👀 Now I’m looking whre can be usefull.
+- 👀 Now I’m looking where can be usefull.
 - 🌱 I’m currently learning JAVA.
 - 💞️ I’m looking to collaborate on usefull application :)
 - 📫 jojurko@gmail.com
