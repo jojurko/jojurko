@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jozef Jurkovič, @jojurko
 - 👀 Now I’m looking where can be usefull.
-- 🌱 I’m currently learning JAVA.
+- 🌱 I’m currently learning JAVA, Javascript, TypeScript and Angular.
 - 💞️ I’m looking to collaborate on usefull application :)
 - 📫 jojurko@gmail.com
 
